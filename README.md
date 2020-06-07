@@ -1,5 +1,9 @@
 # cryptotracker
 
+A basic cryptocurrency price tracker wrote in Vue + Vuetify, using axios. Powered by CoinGecko.
+
+Everything took like 1 hour and 20 minutes, mainly because of troubles with axios.
+
 ## Project setup
 ```
 npm install
